@@ -1,2 +1,3 @@
-# hyper-video-platform-vwwc
-Automated issue comment bot repository
+# Hyper Video Platform Vwwc
+
+Automated issue comment bot repository.
